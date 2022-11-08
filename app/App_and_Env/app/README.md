@@ -1,4 +1,4 @@
-## Sparta Node Sample App NodeApp1
+## Sparta Node Sample App NodeApp2
 
 
 This app is  for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch. 
