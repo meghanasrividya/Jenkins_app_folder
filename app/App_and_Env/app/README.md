@@ -1,4 +1,4 @@
-## Sparta Node Sample App NodeApp6
+## Sparta Node Sample App NodeApp
 
 
 
